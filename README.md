@@ -1,2 +1,2 @@
-# Data-Science
-ECO 4199
+# Data Science for Social Scientists
+ECO 4199 uOttawa
